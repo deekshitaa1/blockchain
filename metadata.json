@@ -1,0 +1,5 @@
+{
+  "name": "HealthChain Secure",
+  "description": "A secure, blockchain-inspired healthcare platform featuring an AI health assistant, patient record management, scheme discovery, and doctor locator. It prioritizes data integrity and role-based access for patients, doctors, auditors, and researchers.",
+  "requestFramePermissions": []
+}
